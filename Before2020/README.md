@@ -44,7 +44,7 @@ BlogArtsシリーズは、ブログの技術を解説するシリーズです。
 ブログという「場」を得たことにより、コンビニ店長からフリーランスの物書きとなった著者は、その胸にどのような思いを抱いているのか。7万字越えのフルボディ・エッセイ。
 </blockquote>
 
-### 『25年前からのパソコン通信: 1990年代初頭のシドニーから 』
+### 『25年前からのパソコン通信: 1990年代初頭のシドニーから』
 
 <p style="text-align: center;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01LZ9RPU5/rashita1000-22/ref=nosim/" target="_blank" rel="noopener" name="amazletlink"><img class="aligncenter" style="border: none;" src="https://m.media-amazon.com/images/I/51OUDOoLIQL._SY346_.jpg" alt="" /></a></p>
 
@@ -52,6 +52,13 @@ BlogArtsシリーズは、ブログの技術を解説するシリーズです。
 
 著者:Lyustyle 
 
+<blockquote>
+　私は，1990年代の初頭，シドニー日本人学校で派遣教員として教師をしていました。<br />
+　その間，仕事やプライベートにわたって，たくさんの記録を残し，その多くをレポートとして，インターネット前夜のコンピューターネットワークであるパソコン通信で日本のPC-VANに送りました。<br />
+　この本は、たくさんの記録の中から，生活に関する内容だけを切り取ったものです。<br />
+　
+　25年前の過去の私が今の「私」に向かって送っておいたメールが届くことからお話が始まります。
+</blockquote>
 
 ### 『ちいさなくふうとノート術: ごちゃごちゃの頭を整理して楽しく暮らす私のノートの使い方 』
 
@@ -95,6 +102,8 @@ BlogArtsシリーズは、ブログの技術を解説するシリーズです。
 
 ### 『アウトライン・プロセッシングLIFE: アウトライナーで書く「生活」と「人生」』
 
+<p style="text-align: center;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B07F3KN42K/rashita1000-22/ref=nosim/" target="_blank" rel="noopener" name="amazletlink"><img class="aligncenter" style="border: none;" src="https://m.media-amazon.com/images/I/41nO1V43OIL._SY346_.jpg" alt="" /></a></p>
+
 2018/6/27
 
 著者:Tak.
@@ -121,6 +130,8 @@ BlogArtsシリーズは、ブログの技術を解説するシリーズです。
 
 
 ### 『執筆を効率化したい人のための秀丸エディタ実践入門』
+
+<p style="text-align: center;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B07R6FTSMT/rashita1000-22/ref=nosim/" target="_blank" rel="noopener" name="amazletlink"><img class="aligncenter" style="border: none;" src="https://m.media-amazon.com/images/I/41DRABeOr8L._SY346_.jpg" alt="" /></a></p>
 
 2019/4/26
 
