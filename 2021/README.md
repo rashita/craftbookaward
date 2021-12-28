@@ -2,7 +2,7 @@
 
 ### 『ときほぐす手帳: いいことばかりが続くわけじゃない日々をゆるやかにつむぐ私のノートの使い方』
 
-<a href="https://www.amazon.co.jp/%E3%81%A8%E3%81%8D%E3%81%BB%E3%81%90%E3%81%99%E6%89%8B%E5%B8%B3-%E3%81%84%E3%81%84%E3%81%93%E3%81%A8%E3%81%B0%E3%81%8B%E3%82%8A%E3%81%8C%E7%B6%9A%E3%81%8F%E3%82%8F%E3%81%91%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E6%97%A5%E3%80%85%E3%82%92%E3%82%86%E3%82%8B%E3%82%84%E3%81%8B%E3%81%AB%E3%81%A4%E3%82%80%E3%81%90%E7%A7%81%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9-Marie-ebook/dp/B097HP2M5W?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E3%81%A8%E3%81%8D%E3%81%BB%E3%81%90%E3%81%99%E6%89%8B%E5%B8%B3&qid=1640658805&sourceid=Mozilla-search&sr=8-1&linkCode=li2&tag=rashita1000-22&linkId=35b7fe7ae00bab4a39e49e745b5caffa&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B097HP2M5W&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=rashita1000-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=rashita1000-22&language=ja_JP&l=li2&o=9&a=B097HP2M5W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<p style="text-align: center;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B097HP2M5W/rashita1000-22/ref=nosim/" target="_blank" rel="noopener" name="amazletlink"><img class="aligncenter" style="border: none;" src="https://m.media-amazon.com/images/I/31QgpozpihS._SY346_.jpg" alt="" /></a></p>
 
 著者:Marie
 
