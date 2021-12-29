@@ -55,3 +55,31 @@ Apple純正メモアプリ。使いこなしていますか？「Appleユーザ�
 
 一年に一度出版していきます。
 </blockquote>
+
+### 『世界は「日記」でできている: 自分の人生を取り戻す21の日記の技法』:
+
+<p style="text-align: center;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B09PBYGP33/rashita1000-22/ref=nosim/" target="_blank" rel="noopener" name="amazletlink"><img class="aligncenter" style="border: none;" src="https://m.media-amazon.com/images/I/515ZyHZ5NrL._SY346_.jpg" alt="" /></a></p>
+
+著者:ゆうびんや　
+
+<blockquote>
+日記本の決定版！！
+
+この本はひとりひとりが書く日記から始まり、らせんを昇るように視点を上げていきます。その中で
+
+<ul>
+<li>日記の効果</li>
+<li>様々な日記の書き方</li>
+<li>日記の継続法</li>
+</ul>
+
+などを学ぶことができます。新しい日記の一面にも気づくことでしょう。そして、サブタイトルの「人生を取り戻す」、タイトルの『世界は「日記」でできている』の意味についても、ご納得いただけるはずです。
+
+　日記について知る。<br />
+　自分について知る。<br />
+「世界」について知る。<br />
+
+さっそく、そんな旅にでかけましょう。
+
+
+</blockquote>
