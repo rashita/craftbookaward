@@ -44,6 +44,17 @@
 Apple純正メモアプリ。使いこなしていますか？「Appleユーザーなら使わないのはもったいない」そう思えるくらい多機能で便利。他のメモアプリを使っているから興味ない？"併用"という手もありますよ。純正アプリのメリットに目を向けてみませんか。本書では、基本的な機能からマニアックな使い方まで５０個を厳選して紹介。本書を読めばメモアプリの使い方の幅が格段に広がります。
 </blockquote>
 
+### 『iPadのはなし』
+
+<p style="text-align: center;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B09BHRPGCK/rashita1000-22/ref=nosim/" target="_blank" rel="noopener" name="amazletlink"><img class="aligncenter" style="border: none;" src="https://m.media-amazon.com/images/I/41EiO2DyRhL._SY346_.jpg" alt="" /></a></p>
+
+著:五藤晴菜
+
+<blockquote>
+「iPadを使いこなしたいな」「iPadだけで仕事ができたらいいな」と思っている人に役立つ考え方や、そのためのiPadの使い方などを紹介しています。
+iPadの「アプリの使い方」というものは、iPadOSのバージョンが変わったり、アプリのアップデートによってどんどん使えない情報になっていってしまいます。この本は、そういう「古くなる情報」をできるだけ少なく「ずっと使える情報」が書かれた本になることを目指して作りました。
+</blockquote>
+
 ### 『ライフハックの道具箱 2021年版』
 
 <p style="text-align: center;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B09P1LHDPY/rashita1000-22/ref=nosim/" target="_blank" rel="noopener" name="amazletlink"><img class="aligncenter" style="border: none;" src="https://m.media-amazon.com/images/I/415U7Woz-lL._SY346_.jpg" alt="" /></a></p>
